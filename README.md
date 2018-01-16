@@ -1,1 +1,1 @@
-# tribal-wars-cancel-sniping
+# Tribal Wars Cancel Sniping (. Sensation method)
