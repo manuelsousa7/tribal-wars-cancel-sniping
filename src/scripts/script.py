@@ -27,8 +27,8 @@ def main():
 		count = (NTarrivaltime - (arrivalATSUPtime - ATSUPtimeduration)) / 2 + (arrivalATSUPtime-ATSUPtimeduration) # Algorithm
 	except:
 		raise ValueError("error")
-	return str(count)
+	print(str(count))
 
 
 if __name__ == "__main__":
-    print main()
+    main()
